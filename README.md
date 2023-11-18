@@ -1,38 +1,19 @@
-# create-svelte
+# Assignment 6: Skeleton UI Layouts
+### CPNT 262 Web Client and Server Programming
+### By Cal Holt
+- [GH Repo](https://github.com/CalHolt/cpnt262-assignment-2)
+- [Netlify Live Site](https://silly-lollipop-9289a1.netlify.app/)
+## Layout
+The home page and music page on the sidebar navigation use the same layout. If you click the sign up button that page uses a different layout.
+## Search Queries
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+### Search Topic One
+How to have multiple layouts within one svelte project
+1. [Svelte multiple layout]-https://www.youtube.com/watch?v=9UpaKEVuErs
+    - Useful Keywords: "layout", "tutorial"
+    - Unuseful Keywords: My first search worked for me so I did not have any unuseful keywords
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+### Attributions
+- [Skeleton UI](https://www.skeleton.dev/)
+- [Joy of Code](https://www.youtube.com/watch?v=9UpaKEVuErs)
+- [Lorem Picsum](https://picsum.photos/)
